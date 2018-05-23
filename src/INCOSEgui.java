@@ -1,3 +1,7 @@
+// this tool provides the traning to the Incose system engineering process.
+// for each process it lists all the input activites and output of the process.
+// user can select a specific item and see details and learn more about that specific item of system engineering.
+// baalaajee@gmail.com
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import javax.swing.JButton;
