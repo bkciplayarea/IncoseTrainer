@@ -1,0 +1,80 @@
+//content in this file are taken from the INCASE SYSTEMS ENGINERRING HANDBOOK as reference and learning purpose.
+//strictly follow the convention followed.
+#START_INPUT_PROC
+#START_VAR:s4_1_bizAn_I_1_rem
+TBW? Requirements definition begins with the business vision of the organization or enterprise, the concept
+TBW? of operations (ConOps), and other organization strategic goals and objectives from which business 
+management define business needs (aka mission needs). The overall organization strategy, including
+the business mission or vision and strategic goals and objectives.
+#END_VAR:s4_1_bizAn_I_1_rem
+#START_VAR:s4_1_bizAn_I_2_rem
+TBW? The ConOps is a verbal and/or graphic statement prepared for the organization’s leadership that 
+describes the assumptions or intent
+regarding the overall operation or series of operations of the enterprise, to include any new 
+capability (ANSI/AIAA, 2012; ISO/IEC/IEEE 29148,2011)
+#END_VAR:s4_1_bizAn_I_2_rem
+#START_VAR:s4_1_bizAn_I_3_rem
+TBW? External documents relevant to the particular stage of procurement activity for the system of interest. 
+Includes the written directives embodied in the source documents relevant to organizational 
+strategies and policies.
+#END_VAR:s4_1_bizAn_I_3_rem
+#START_VAR:s4_1_bizAn_I_4_rem
+TBW? Constraints from all applicable life cycle processes, including implementation constraints, integration 
+constraints, verification constraints, transition constraints, validation constraints, operation constraints, 
+maintenance constraints, and disposal constraints.
+#END_VAR:s4_1_bizAn_I_4_rem
+#START_VAR:s4_1_bizAn_I_5_rem
+TBW? Any constraints on the system arising from the technical management strategy including cost, schedule, 
+and technical constraints.
+#END_VAR:s4_1_bizAn_I_5_rem
+#START_VAR:s4_1_bizAn_I_6_rem
+TBW? Bidirectional traceability of the stakeholder requirements.
+#END_VAR:s4_1_bizAn_I_6_rem
+//start of process .....
+#START_PROC_PROC
+#START_VAR:s4_1_bizAn_P_1_rem
+TBW? Establish a strategy for business or mission analysis,including the need for and requirements of
+any enabling systems, products, or services.
+#END_VAR:s4_1_bizAn_P_1_rem
+#START_VAR:s4_1_bizAn_P_2_rem
+TBW? – Review identified gaps in the organization strategy with respect to desired organization 
+goals or objectives.
+– Analyze the gaps across the trade space.
+– Describe the problems or opportunities underlying the gaps.
+– Obtain agreement on the problem or opportunity descriptions.
+#END_VAR:s4_1_bizAn_P_2_rem
+#START_VAR:s4_1_bizAn_P_3_rem
+TBW? – Nominate major stakeholders (individuals or groups). Business owners nominate the major
+stakeholders who are to be involved in the acquisition, operation, support, and 
+retirement of the solution.
+– Define preliminary OpsCon. An OpsCon describes how the system works from the operator’s perspective.
+The preliminary OpsCon summarizes the needs, goals, and characteristics of the system’s
+user and operator community. The OpsCon also identifies the system context and system interfaces
+(i.e., the operational environment; see Elaboration for more detail).
+– Define other preliminary life cycle concepts. The business owners identify preliminary life cycle
+concepts in so far as they may wish to scope any aspect of the acquisition, deployment, support,
+and retirement of the solution.
+– Establish a comprehensive set of alternative solution classes.
+#END_VAR:s4_1_bizAn_P_3_rem
+#START_VAR:s4_1_bizAn_P_4_rem
+TBW? – Evaluate the set of alternative solution classes and select the preferred class(es). Appropriate
+modeling, simulation, and analytical techniques help determine the feasibility and value of the
+alternative candidate solutions.
+– Ensure that the preferred alternative solution class(es) has been validated in the context of the
+proposed business or mission strategy. Feedback on feasibility, market factors, and alternatives is
+also provided for use in completing the organization strategy and further actions.
+#END_VAR:s4_1_bizAn_P_4_rem
+#START_VAR:s4_1_bizAn_P_5_rem
+TBW? – Establish and maintain traceability of analysis results, such as requirements and preliminary life
+cycle concepts.
+– Provide baseline information for configuration management.
+#END_VAR:s4_1_bizAn_P_5_rem
+//output process.......
+#START_OUTPUT_PROC
+#START_VAR:s4_1_bizAn_O_1_rem
+TBW? output 1 tbw
+#END_VAR:s4_1_bizAn_O_1_rem
+#START_VAR:s4_1_bizAn_O_2_rem
+TBW? output 2 tbw
+output 2 tbw
+#END_VAR:s4_1_bizAn_O_2_rem

@@ -1,0 +1,51 @@
+//content in this file are taken from the INCASE SYSTEMS ENGINERRING HANDBOOK as reference and learning purpose.
+//strictly follow the convention followed.
+#START_INPUT_PROC
+#START_VAR:
+The overall organization strategy, including the business mission or vision and strategic goals and objectives.
+#END_VAR:
+#START_VAR:
+The identification of a need that cannot be met within the organization encountering the need or a need that
+can be met in a more economical way.
+by a supplier
+#END_VAR:
+#START_VAR:
+Enabling system requirements from all applicable life cycle processes, including implementation enabling
+system requirements, integration enabling system requirements, verification enabling system requirements,
+transition enabling system requirements, validation enabling system requirements, operation enabling system
+requirements, maintenance enabling system requirements, and disposal enabling system requirements.
+#END_VAR:
+#START_VAR:
+The responses of one or more candidate suppliers in response to a request for supply.
+#END_VAR:
+#START_VAR:
+The system or system element (product or service) is delivered to the acquirer from a supplier consistent 
+with the delivery conditions of the acquisition agreement.
+#END_VAR:
+//start of process .....
+//PROCESS
+#START_PROC_PROC
+tbw
+#START_VAR
+tbw
+#END_VAR:
+tbw
+#START_VAR
+tbw
+#END_VAR:
+tbw
+#START_VAR
+tbw
+#END_VAR:
+tbw
+#START_VAR
+tbw
+#END_VAR:
+//output process.......
+//OUTPUT
+#START_OUTPUT_PROC
+#START_VAR:
+documented Verification Strategy.
+Approaches, schedules, resources, and specific considerations required to accomplish the selected verification
+actions that minimize costs and risks while maximizing operational coverage of system behavior.
+#END_VAR:

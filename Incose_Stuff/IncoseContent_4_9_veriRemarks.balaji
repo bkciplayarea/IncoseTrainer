@@ -1,0 +1,83 @@
+//content in this file are taken from the INCASE SYSTEMS ENGINERRING HANDBOOK as reference and learning purpose.
+//strictly follow the convention followed.
+#START_INPUT_PROC
+//
+#START_VAR:
+Articulation and refinement of the various life cycle concepts consistent with the business needs in the form
+of life cycle concept documents on which the system of interest is based, assessed, and selected. The
+architecture is based on these concepts, and they are essential in providing context for proper interpretation
+of the system requirements. Typical concepts include:
+  Acquisition concept
+  Deployment concept
+  Operational concept (OpsCon)
+  Support concept
+  Retirement concept
+#END_VAR:
+//
+#START_VAR:
+The verification criteria (the measures to be assessed), who will perform verification activities, and
+the verification environments of the system of interest.
+#END_VAR:
+//
+#START_VAR:
+An updated list of requirements, their verification attributes, and their traces.
+strategies and policies.
+#END_VAR:
+//
+#START_VAR:
+The logical and physical aspects of internal interfaces (between the system elements composing 
+the system) and external interfaces (between the system elements and the elements outside the 
+system of interest).
+#END_VAR:
+//
+#START_VAR:
+Integrated system element or system ready for verification. The resulting aggregation of assembled 
+system elements.
+#END_VAR:
+//
+#START_VAR:
+An account prepared for interested parties in order to communicate the status, results, and outcomes of
+the integration activities. Includes documentation of the integration testing and analysis 
+results, areas of nonconformance, and validated internal interfaces.
+#END_VAR:
+//start of process .....
+//PROCESS
+#START_PROC_PROC
+#START_VAR:prepare for verification
+Develop a strategy that prioritizes the verification actions to minimize costs and risks while
+maximizing operational coverage of system behaviors i.e. requirements coverage.
+Document approach for the verification. 
+decomposing requirements into several verifiable statements.
+Establish a list of verification constraints that limits cost, schedule, feasibility, safety etc.
+#END_VAR:
+#START_VAR:performa verification
+Implement the verification plan developed. That plan includes detailed
+descriptions for the selected verification actions:
+   ° Item to be verified
+   ° Expected results and success criteria
+   ° Selected verification method or technique
+   ° The data needed
+   ° The corresponding enabling systems, products, or services
+– Using the verification procedures, execute the verification actions and record the results.
+– Analyze the verification results against any established expectations and success criteria to
+determine whether the element being verified indicates conformance.
+#END_VAR:
+#START_VAR:manage results of verification
+– Identify and record verification results and update Requirements Verification and Traceability Matrix (RVTM).
+– Record anomalies, and analyze and resolve the anomalies(QA process)
+– Provide baseline information for configuration management.
+– Update the verification strategy and schedule according.
+– Coordinate verification activities with the project manager.
+#END_VAR:
+//output process.......
+//OUTPUT
+#START_OUTPUT_PROC
+#START_VAR:
+documented Verification Strategy.
+Approaches, schedules, resources, and specific considerations required to accomplish the selected verification
+actions that minimize costs and risks while maximizing operational coverage of system behavior.
+#END_VAR:
+#START_VAR:
+TBW? output 2 tbw
+output 2 tbw
+#END_VAR:

@@ -1,0 +1,86 @@
+//content in this file are taken from the INCASE SYSTEMS ENGINERRING HANDBOOK as reference and learning purpose.
+//strictly follow the convention followed.
+#START_INPUT_PROC
+#START_VAR:
+Articulation and refinement of the various life cycle concepts consistent with the business needs in the form
+of life cycle concept documents on which the system of interest is based, assessed, and selected. The
+architecture is based on these concepts, and they are essential in providing context for proper interpretation
+of the system requirements. Typical concepts include:
+  Acquisition concept
+  Deployment concept
+  Operational concept (OpsCon)
+  Support concept
+  Retirement concept
+#END_VAR:
+#START_VAR:
+The logical and physical aspects of internal interfaces (between the system elements composing the system)
+and external interfaces (between the system elements and the elements outside the system of interest).
+#END_VAR:
+#START_VAR:
+Design characteristics description of the system elements contained in the system; the description depends on
+the implementation technology (e.g., data sheets, databases, documents, exportable data files).
+#END_VAR:
+#START_VAR:
+System elements implemented or supplied according to the acquisition agreement.
+#END_VAR:
+#START_VAR:
+Detailed drawings, codes, and material specifications. Updated design documentation, as required by
+corrective action or adaptations caused by acquisition or conformance to regulations.
+#END_VAR:
+#START_VAR:
+Bidirectional traceability of the system elements.
+#END_VAR:
+#START_VAR:
+System element or system is transferred from supplier to acquirer and the product or service 
+is available to the project.
+#END_VAR:
+//start of process .....
+//PROCESS
+#START_PROC_PROC
+#START_VAR:
+TBW? Establish a strategy for business or mission analysis,including the need for and requirements of
+any enabling systems, products, or services.
+#END_VAR:
+#START_VAR:
+TBW? – Review identified gaps in the organization strategy with respect to desired organization 
+goals or objectives.
+– Analyze the gaps across the trade space.
+– Describe the problems or opportunities underlying the gaps.
+– Obtain agreement on the problem or opportunity descriptions.
+#END_VAR:
+#START_VAR:
+TBW? – Nominate major stakeholders (individuals or groups). Business owners nominate the major
+stakeholders who are to be involved in the acquisition, operation, support, and 
+retirement of the solution.
+– Define preliminary OpsCon. An OpsCon describes how the system works from the operator’s perspective.
+The preliminary OpsCon summarizes the needs, goals, and characteristics of the system’s
+user and operator community. The OpsCon also identifies the system context and system interfaces
+(i.e., the operational environment; see Elaboration for more detail).
+– Define other preliminary life cycle concepts. The business owners identify preliminary life cycle
+concepts in so far as they may wish to scope any aspect of the acquisition, deployment, support,
+and retirement of the solution.
+– Establish a comprehensive set of alternative solution classes.
+#END_VAR:
+#START_VAR:
+TBW? – Evaluate the set of alternative solution classes and select the preferred class(es). Appropriate
+modeling, simulation, and analytical techniques help determine the feasibility and value of the
+alternative candidate solutions.
+– Ensure that the preferred alternative solution class(es) has been validated in the context of the
+proposed business or mission strategy. Feedback on feasibility, market factors, and alternatives is
+also provided for use in completing the organization strategy and further actions.
+#END_VAR:
+#START_VAR:
+TBW? – Establish and maintain traceability of analysis results, such as requirements and preliminary life
+cycle concepts.
+– Provide baseline information for configuration management.
+#END_VAR:
+//output process.......
+//OUTPUT
+#START_OUTPUT_PROC
+#START_VAR:
+TBW? output 1 tbw
+#END_VAR:
+#START_VAR:
+TBW? output 2 tbw
+output 2 tbw
+#END_VAR:
